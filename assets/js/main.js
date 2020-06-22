@@ -172,7 +172,9 @@
     autoplay: false,
     dots: true,
     loop: true,
-    items: 1
+    video: true,
+    items: 1,
+    videoHeight: 300
   });
 
 
